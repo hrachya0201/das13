@@ -1,0 +1,23 @@
+
+.conteiner{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+	max-width: 1320px;		
+		}
+
+.box{
+width:384px ;
+}
+.baby{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	max-width:222px;
+	height: ;
+}
+
+img{
+	width: 60px;
+}

@@ -1,0 +1,16 @@
+.box{
+	width: ;
+	height: ;
+	display: flex;
+	border: 2px solid whitesmoke;
+	background-color:yellowgreen;
+}
+img {
+	width: 700px ;
+	border-radius: 300px;
+	opacity: 1;
+	background-image:url(Regions.jpg) ;
+}
+body{
+	background-color:greenyellow;
+}
